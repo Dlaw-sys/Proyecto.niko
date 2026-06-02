@@ -1,0 +1,39 @@
+*{
+    font-size: 1.2rem;
+}
+
+body {
+    background-color: #e6b6b6;
+}
+
+p {
+    color:antiquewhite;
+}
+
+.style-p {
+    color:rgb(255, 255, 255);
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Selector de clase*/
+.titulo-secundario{
+    color:white;
+}
+.test{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.caja-modelo {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+
+    width: 50%;
+    background-color: rgb(245, 198, 198);
+    border: 5px solid rgb(223, 163, 163);
+    padding: 20px;
+    margin: 4px 10px 40px 10px;
+}
