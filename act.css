@@ -1,0 +1,13 @@
+.boton-whatsapp{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: violet;
+    color: black;
+    padding: 15px;
+    border-radius: 50px;
+}
+.cuadrito{
+    background-color:aquamarine;
+    
+}
