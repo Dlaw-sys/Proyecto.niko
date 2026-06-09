@@ -1,0 +1,52 @@
+body{
+    font-family: "Black Ops One", system-ui;
+    margin: 0;
+    font-weight: 100;
+    font-style: normal;
+    background-image: url(gojo.jps.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: multiply;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 50px;
+}
+.contenedor-container{
+    color: rgb(220, 220, 220);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    border: none;
+    border-radius: 10px;
+}
+.btn-primario {
+    background-color: rgb(48, 178, 178);
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+    transition: all 0.3s ease;
+}
+.owo-border{
+    display: flexbox;
+    border-bottom: 10;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 30px;
+    background-color: lavender;
+
+
+}
+
