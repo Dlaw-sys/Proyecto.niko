@@ -46,7 +46,23 @@ body{
     margin: 5px;
     border-radius: 30px;
     background-color: lavender;
+}
+.contenedor-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.señor-ayuboki{
+    border-bottom: #000000;
+    border: 1px solid;
+    width: 250px;
+    height: 300px;
+    color: crimson;
+}
 
+.señor-ayuboki img{
+    width: 250px;
+    height: 300px;
 }
 
