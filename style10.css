@@ -1,0 +1,13 @@
+.boton{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(1, 1, 35);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boton:hover{
+    background-color: aqua;
+    cursor: pointer;
+}

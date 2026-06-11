@@ -1,0 +1,15 @@
+.perfil{
+    display: flexbox;
+    background-color: rgb(1, 1, 35);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    width: 35%;
+}
+.foto{
+    display: flexbox;
+    direction: row;
+    width: 15px;
+    height: 15px;
+
+}
